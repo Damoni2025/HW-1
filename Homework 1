@@ -1,0 +1,9 @@
+char a = '(';
+char b;
+char c;
+unsigned char d = 'O';
+
+a = a + 18;
+b = 101 - 'B';
+c = 'a' - '>';
+d = d + '*';
